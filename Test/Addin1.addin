@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>Test.dll</Assembly>
+    <ClientId>8C0A9E25-B7C5-421c-A1AB-702F73FA54FA</ClientId>     
+    <FullClassName>Test.DocumentChangedCommand</FullClassName>
+    <Text>Check Document Changed</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <LanguageType>Unknown</LanguageType>
+    <VendorId>NTK</VendorId>
+    <VendorDescription>Lớp lập trình API</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>Test.dll</Assembly>
+    <ClientId>8C0A9E25-B7C5-421c-A1AB-702F73FA54FB</ClientId>
+    <FullClassName>Test.ToggleEvent</FullClassName>
+    <Text>Toggle Event</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <LanguageType>Unknown</LanguageType>
+    <VendorId>NTK</VendorId>
+    <VendorDescription>Lớp lập trình API</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>Test.dll</Assembly>
+    <ClientId>8C0A9E25-B7C5-421c-A1AB-702F73FA5444</ClientId>
+    <FullClassName>Test.DocumentChangedAfterSynchronizeCommand</FullClassName>
+    <Text>Synchronized</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <LanguageType>Unknown</LanguageType>
+    <VendorId>NTK</VendorId>
+    <VendorDescription>Lớp lập trình API</VendorDescription>
+  </AddIn>
+</RevitAddIns>

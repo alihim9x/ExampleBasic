@@ -1,0 +1,5 @@
+D:\Study\RV Api\Test\Test\Test\bin\Debug\Test.dll
+D:\Study\RV Api\Test\Test\Test\bin\Debug\Test.pdb
+D:\Study\RV Api\Test\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Study\RV Api\Test\Test\Test\obj\Debug\Test.dll
+D:\Study\RV Api\Test\Test\Test\obj\Debug\Test.pdb

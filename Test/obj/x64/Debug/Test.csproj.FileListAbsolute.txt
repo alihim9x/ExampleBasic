@@ -1,0 +1,43 @@
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\bin\x64\Debug\Addin1.addin
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\bin\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\bin\x64\Debug\Test.pdb
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\obj\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test-20190418T035817Z-001\Test\Test\Test\obj\x64\Debug\Test.pdb
+D:\Study\RV Api\Test\Test\Test\bin\x64\Debug\Addin1.addin
+D:\Study\RV Api\Test\Test\Test\bin\x64\Debug\Test.dll
+D:\Study\RV Api\Test\Test\Test\bin\x64\Debug\Test.pdb
+D:\Study\RV Api\Test\Test\Test\obj\x64\Debug\Test.dll
+D:\Study\RV Api\Test\Test\Test\obj\x64\Debug\Test.pdb
+D:\Study\RV Api\Test\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Kien\Study\Revit Api\Test\Test\bin\x64\Debug\Addin1.addin
+D:\Kien\Study\Revit Api\Test\Test\bin\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test\Test\bin\x64\Debug\Test.pdb
+D:\Kien\Study\Revit Api\Test\Test\obj\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test\Test\obj\x64\Debug\Test.pdb
+D:\Kien\Study\Revit Api\Test\Test\obj\x64\Debug\Test.csprojAssemblyReference.cache
+D:\Kien\Study\Revit Api\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Kien\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Addin1.addin
+D:\Kien\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Test.pdb
+D:\Kien\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.dll
+D:\Kien\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.pdb
+E:\Hoc\RevitApi\Test-HTT\Test\bin\x64\Debug\Addin1.addin
+E:\Hoc\RevitApi\Test-HTT\Test\bin\x64\Debug\Test.dll
+E:\Hoc\RevitApi\Test-HTT\Test\bin\x64\Debug\Test.pdb
+E:\Hoc\RevitApi\Test-HTT\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Hoc\RevitApi\Test-HTT\Test\obj\x64\Debug\Test.dll
+E:\Hoc\RevitApi\Test-HTT\Test\obj\x64\Debug\Test.pdb
+D:\Study\RV Api\Test-HTT\Test\bin\x64\Debug\Addin1.addin
+D:\Study\RV Api\Test-HTT\Test\bin\x64\Debug\Test.dll
+D:\Study\RV Api\Test-HTT\Test\bin\x64\Debug\Test.pdb
+D:\Study\RV Api\Test-HTT\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Study\RV Api\Test-HTT\Test\obj\x64\Debug\Test.dll
+D:\Study\RV Api\Test-HTT\Test\obj\x64\Debug\Test.pdb
+D:\Kien\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Addin1.addin
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Test.dll
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\bin\x64\Debug\Test.pdb
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.dll
+D:\Kien\old pc\Study\Revit Api\Test-HTT\Test\obj\x64\Debug\Test.pdb
